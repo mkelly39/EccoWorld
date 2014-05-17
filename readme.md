@@ -1,3 +1,3 @@
-##EccoWorld
+## EccoWorld
 
-Agile hackathon project
+Agile Hackathon project
