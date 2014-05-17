@@ -1,7 +1,8 @@
 #################
 ## Eclipse
 #################
-
+junk/*
+junk/
 *.pydevproject
 .project
 .metadata
